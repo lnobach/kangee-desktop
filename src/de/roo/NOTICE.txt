@@ -1,0 +1,98 @@
+Kangee Personal On-Demand Fileserver
+
+	Copyright (c) 2010 Leonhard Nobach
+
+For licensing information, see LICENSE.txt
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+===============================
+Contributions to this software:
+===============================
+1.
+
+The ZXing library, or a part of it, may be included in this software 
+and stored as a jar archive with the corresponding name in /lib/.
+
+	ZXing Library
+	http://code.google.com/p/zxing/
+	Contributors to the ZXing project are:
+
+	Agustín Delgado (Servinform S.A.)
+	Aitor Almeida (University of Deusto)
+	Alasdair Mackintosh (Google)
+	Alexander Martin (Haase & Martin GmbH)
+	Andreas Pillath
+	Andrey Sitnik
+	Androida.hu / http://www.androida.hu/
+	Antonio Manuel Benjumea (Servinform S.A.)
+	Brian Brown (Google)
+	Christian Brunschen (Google)
+	Daniel Switkin (Google)
+	Dave MacLachlan (Google)
+	David Phillip Oster (Google)
+	David Albert (Bug Labs)
+	Diego Pierotto
+	Eduardo Castillejo (University of Deusto)
+	Eric Kobrin (Velocitude)
+	Erik Barbara
+	Fred Lin (Anobiit)
+	Hannes Erven
+	hypest (Barcorama project)
+	Isaac Potoczny-Jones
+	John Connolly (Bug Labs)
+	Jonas Petersson (Prisjakt)
+	Joseph Wain (Google)
+	Juho Mikkonen
+	jwicks
+	Kevin O'Sullivan (SITA)
+	Kevin Xue (NetDragon Websoft Inc., China)
+	Marcelo
+	Mateusz Jędrasik
+	Matthew Schulkind (Google)
+	Matt York (LifeMarks)
+	Mohamad Fairol
+	Nikolaos Ftylitakis
+	Pablo Orduña (University of Deusto)
+	Paul Hackenberger
+	Randy Shen (Acer)
+	Rasmus Schrøder Sørensen
+	Richard Hřivňák
+	Roman Nurik (Google)
+	Ryan Alford
+	Sanford Squires
+	Sean Owen (Google)
+	Simon Flannery (Ericsson)
+	Suraj Supekar
+	Sven Klinkhamer
+	Thomas Gerbet
+	Vince Francis (LifeMarks)
+
+2.
+
+A part of the Oxygen Icon Theme may be included in this release.
+
+	The Oxygen Icon Theme (http://www.oxygen-icons.org/)
+    	Copyright (C) 2007 David Vignoni <david@icon-king.com>
+    	Copyright (C) 2007 Johann Ollivier Lapeyre <johann@oxygen-icons.org>
+    	Copyright (C) 2007 Kenneth Wimer <kwwii@bootsplash.org>
+    	Copyright (C) 2007 Nuno Pinheiro <nuno@oxygen-icons.org>
+    	Copyright (C) 2007 Riccardo Iaconelli <riccardo@oxygen-icons.org>
+    	Copyright (C) 2007 David Miller <miller@oxygen-icons.org>
+
+	and others.
+	Parts of the theme are filed under /gfx/icons. It is licensed under the 
+	GNU Lesser General Public License (LGPL). For further information on this 
+	icon library, please read the corresponding section in LICENSE.txt that 
+	must have been included in this directory here.

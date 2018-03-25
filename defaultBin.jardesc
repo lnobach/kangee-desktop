@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no"?>
+<jardesc>
+    <jar path="RooDeploy/bin-all-platforms/roo.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/RooForPC/defaultBin.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=RooForPC/src&lt;de.roo{StartSwing.java[StartSwing" manifestLocation="/RooForPC/jar.manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/RooForPC/LICENSE.txt"/>
+        <file path="/RooForPC/gfx/splash.png"/>
+        <javaElement handleIdentifier="=Roo-Core/src"/>
+        <file path="/RooForPC/NOTICE.txt"/>
+        <javaElement handleIdentifier="=RooForPC/src"/>
+    </selectedElements>
+</jardesc>

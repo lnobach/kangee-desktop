@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: de.roo.StartSwing
+SplashScreen-Image: gfx/splash.png
+Class-Path: lib/zxing-qr-code.jar
